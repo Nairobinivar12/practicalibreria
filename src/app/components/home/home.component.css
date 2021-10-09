@@ -1,5 +1,5 @@
 .section-1 {
-    padding: 20vmin 0vmin;
+    padding: 15vmin 0vmin;
 }
 
 .section-1 .row .col-md-6 .pray img {
@@ -13,8 +13,9 @@
 }
 
 .section-1 .row .col-md-6 .panel {
+    height: 30vh;
     position: absolute;
-    top: 7vmin;
+    top: 4vmin;
     left: -18vmin;
     background: white;
     border-radius: 3px;
@@ -28,10 +29,10 @@
 .section-1 .row .col-md-6 .panel h1 {
     font-weight: bold;
     padding: 0.4em 0;
-    font-size: 2em;
+    font-size: 1rem;
 }
 
 .section-1 .row .col-md-6 .panel p {
-    font-size: 0.9em;
+    font-size: 1rem;
     color: rgba(0, 0, 0, 0.5);
 }

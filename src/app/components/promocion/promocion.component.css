@@ -58,6 +58,10 @@
     color: tomato;
 }
 
+.rect {
+    color: tomato;
+}
+
 .numbers .rect>p {
     font-family: var(--Patua);
 }
